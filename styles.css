@@ -1,8 +1,23 @@
-body color:black;
-#oni 
+body 
+{
+	color:blue;
+
+
+
+
+	background-color:black;
+}
+
+{
+ color:blue;
+}
+#one 
+{
 	color:red;
 }
 
-.two 
-	color:blue;
+#two
+{
+color:blue;
+	
 }

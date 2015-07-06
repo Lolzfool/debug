@@ -1,13 +1,17 @@
-funtion ranson(){
-	var finnish = me;
+function ranson(){
+	var finish = me;
 }
 
-console.log(finnish);
+console.log(finish);
 
-var dog = woof;
+function finish(){
+var dog = woofwaof;
+}
 
-funtion(){
+function ranson(){
 	console.log(dog);
 }
 
+function dog(){
 console.log(dog);
+}
